@@ -1,5 +1,5 @@
 ID,CategoryName,GroupName,FromCode,ToCode,Colour
-1,User,Other,00001,00999,Pink
+1,User,Other,00001,00999,Grey
 2,Dx,Dx-1,01000,01999,mistyrose
 3,Dx,Other,02000,02099,Grey
 4,Dx,Dx-2,02100,02199,Orange
